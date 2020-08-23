@@ -20,7 +20,7 @@ Youtube Video Link : https://youtu.be/dJGfQYUTWYg (Installation and Demo)
 
 Enter username and password of of your github account which has access to this repo when asked:
 
-	$ git clone https://github.com/gauravv0412/artemis.git
+	$ git clone https://github.com/himdhiman/SIH-2020-Ship_Detection-Project-ISRO.git
 	
 ![](Screenshots/1.png)
 
